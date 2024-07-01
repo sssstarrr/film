@@ -15,7 +15,7 @@ class FilmApplicationTests {
 
     @Test
     void delete() {
-        userService.removeById(14); //删除14号用户
+        userService.removeById(15); //删除14号用户
     }
 
 }
